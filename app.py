@@ -4,5 +4,5 @@ def addition(a,b):
 def subtract(a,b):
     return a-b
 
-def divisioni(a,b):
+def division(a,b):
     return a/b
